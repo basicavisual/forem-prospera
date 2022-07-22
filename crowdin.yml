@@ -1,7 +1,3 @@
 files:
-  - source: "**/**/locales/**/*.en.yml"
-    translation: "**/**/locales/**/*%locale%.yml"
-    languages_mapping:
-      locale:
-        fr: fr
-        es: es
+  - source: '**/**/locales/**/*en.yml'
+    translation: '**/**/locales/**/*%locale%.yml'
