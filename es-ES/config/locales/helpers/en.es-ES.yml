@@ -3,23 +3,23 @@ es:
   helpers:
     label:
       listing:
-        body_markdown: Body Markdown
-        expires_at: Custom Expire Date
-        location: Location
-        organization_id: Post under an organization
-        tag_list: Tags
-        title: Title
+        body_markdown: Markdown del cuerpo
+        expires_at: Fecha de vencimiento personalizada
+        location: Ubicación
+        organization_id: Publicar bajo una organización
+        tag_list: Etiquetas
+        title: Título
       podcast:
-        android_url: Android url
-        description: Description
-        feed_url: Feed url
-        image: Image
-        itunes_url: Itunes url
-        main_color_hex: Main color hex
-        overcast_url: Overcast url
-        pattern_image: Pattern image
+        android_url: URL de Android
+        description: Descripción
+        feed_url: URL del feed
+        image: Imagen
+        itunes_url: URL de Itunes
+        main_color_hex: Hexadecimal del color principal
+        overcast_url: URL de Oververcast
+        pattern_image: Imagen del patrón
         slug: Slug
-        soundcloud_url: Soundcloud url
-        title: Title
-        twitter_username: Twitter username
-        website_url: Website url
+        soundcloud_url: URL de Soundcloud
+        title: Título
+        twitter_username: Usuario de Twitter
+        website_url: URL del sitio web
