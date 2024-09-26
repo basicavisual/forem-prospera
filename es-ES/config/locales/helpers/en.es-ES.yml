@@ -1,0 +1,25 @@
+---
+es:
+  helpers:
+    label:
+      listing:
+        body_markdown: Markdown del cuerpo
+        expires_at: Fecha de vencimiento personalizada
+        location: Ubicación
+        organization_id: Publicar bajo una organización
+        tag_list: Etiquetas
+        title: Título
+      podcast:
+        android_url: URL de Android
+        description: Descripción
+        feed_url: URL del feed
+        image: Imagen
+        itunes_url: URL de Itunes
+        main_color_hex: Hexadecimal del color principal
+        overcast_url: URL de Oververcast
+        pattern_image: Imagen del patrón
+        slug: Slug
+        soundcloud_url: URL de Soundcloud
+        title: Título
+        twitter_username: Usuario de Twitter
+        website_url: URL del sitio web
